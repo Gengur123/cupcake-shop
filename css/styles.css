@@ -1,0 +1,18 @@
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+h1.flashy {
+  text-align: center;
+}
+.best {
+  font-style: bold;
+  font-style: italic;
+  font-size: xx-large;
+  color:blue
+}
+
+body {
+  background-color: powderblue;
+}
